@@ -1,0 +1,2 @@
+Connect all html classes and id elements to their css styling elements.
+Style the html classes and id within the css file.
