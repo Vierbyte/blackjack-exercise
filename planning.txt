@@ -1,2 +1,11 @@
-Connect all html classes and id elements to their css styling elements.
-Style the html classes and id within the css file.
+1.Connect all html classes and id elements to their css styling elements.
+2.Style the html classes and id within the css file.
+3.Link the cards via img tag in the html to get a feel for how the cards should look.
+4.Remove the cards within html and set the cards to be created dynamically via javascript.
+5.Attach an event listerner to the buttons to append a new image element to both dealer and player hands elements.
+6.Hit button should deal one more card to the player then another to the dealer.
+7.Create a deck using array of objects for suits and values.
+8.Create two array elements to represent dealHand and playerHand.
+9.Adject code of the deal button so that when clicked the card is removed from the deck and appended to playerHand array.
+10.Create a function getCardImage that will take a card object and return and image element containing the correct image URL for that card.
+11.Create a function render that loops over the dealerHand and playerHand arrays and appends new card image to the correct elements for each card in the hands.
